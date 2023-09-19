@@ -39,7 +39,7 @@ else {
 // 7 -> yes
 // 1 -> no
 
-Console.Write("Введи цифру, обозначающую день недели: ");
+/* Console.Write("Введи цифру, обозначающую день недели: ");
 int dayNumber = Convert.ToInt32(Console.ReadLine());
 
 void weekNumber (int dayNumber) {
@@ -52,4 +52,4 @@ void weekNumber (int dayNumber) {
   else Console.WriteLine("(этот день не выходной) -> нет");
 }
 
-weekNumber(dayNumber);
+weekNumber(dayNumber); */
